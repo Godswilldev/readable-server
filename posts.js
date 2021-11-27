@@ -31,7 +31,7 @@ const defaultData = {
 
   "3jd6ok3ym7mf1p33lysd": {
     id: "3jd6ok3ym7mf1p33lysd",
-    timestamp: 2168479767190,
+    timestamp: 1468479767192,
     title: "Update Udacity",
     body: "Update Udacity's react course content to use Hooks",
     author: "thingtwo",
